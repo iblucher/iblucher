@@ -9,7 +9,7 @@ You can reach me at [![LinkedIn][1.1]][1].
 
 <!-- links to social media icons -->
 
-[1.1]: https://raw.githubusercontent.com/iblucher/iblucher/master/linkedin-3-16.png (LinkedIn icon without padding)
+[1.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png  (LinkedIn icon without padding)
 
 <!-- links to your social media accounts -->
 
