@@ -1,6 +1,6 @@
 ## Hi, I'm Isabela 👋👩‍💻
 
-I am a computer scientist from São Paulo, Brazil. I am currently working as a data scientist at Cobli and studying for my master's degree in computational applications in astrophysics at the University of São Paulo. 
+I am a computer scientist from São Paulo, Brazil. I am currently working as a senior data scientist consultant at Thoughtworks and finishing my master's degree in computational applications in astrophysics at the University of São Paulo. 
 
 I am curious at heart and very passionate about learning! My interests include statistics, machine learning, data science, digital signal processing and observational astrophysics. I've also been very interested in knitting and crocheting 🧶. 
 
